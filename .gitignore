@@ -1,0 +1,13 @@
+# Simulink cache and simulation artifacts
+slprj/
+*.slxc
+
+# Code generation / build outputs (if using Simulink Coder / Embedded Coder)
+codegen/
+*_ert_rtw/
+*_grt_rtw/
+
+# MATLAB autosave / backup / temp files
+*.asv
+*.autosave
+*~
